@@ -8,11 +8,13 @@ package com.itcast.git;
 public class demo01 {
     public static void main(String[] args) {
         System.out.println("hello,git");
+        //hhhhhhhhhhhhh
     }
 
     public void test(){
         int i=0;
         i+=10;
         System.out.println(i);
+        System.out.println("合作");
     }
 }
